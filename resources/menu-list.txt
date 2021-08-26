@@ -31,7 +31,7 @@
 香辣水煮魚	Sliced Fish w. Chili Peppers
 麻辣/蒜香/豆鼓私房烤魚	Grilled Whole Fish w. Spicy/ Garlic/ Black Bean Sauce
 鱼香茄子	Eggplant w.Hot Garlic Sauce
-燒茄子	Eggplant  in Brown Sauce
+燒茄子	Eggplant in Brown Sauce
 尖椒土豆丝	Sliced Potato w.Green Pepper
 麻婆豆腐	Ma Po Tofu
 红烧豆腐	Braised Tofu w. Brown Sauce
@@ -47,7 +47,7 @@
 白菜木耳爆豆腐	Tofu w.Cabbage
 魚香脆皮豆腐	Crispy Tofu w.Hot Garlic Sauce
 手撕包菜	Shredded Cabbage
-九層塔燒茄子	Eggplant  in Basil Brown Sauce
+九層塔燒茄子	Eggplant in Basil Brown Sauce
 金沙玉米粒	Corn w. Salted Egg Yolk
 荷塘養生小炒	Mixed Vegetables w.lotus root
 蒜蓉粉絲金針菇	Mushroom & Vermicelli w. Spicy Garlic Sauce
@@ -70,7 +70,7 @@
 春卷	Vegetable Spring Rolls (3 PC)
 蛋卷	Egg Roll with Pork & Vegetable (2 PC)
 老醋四樣	Jelly Fish, preserved egg, peanuts &cucumber in sweet sour sauce
-口水雞	Poach  Chicken w. Chili Sauce
+口水雞	Poach Chicken w. Chili Sauce
 五香牛腱	Roast Beef Appetizer
 牛腱拌黄瓜	Country Style Beef w.Cucumber
 夫妻肺片	Sliced Beef and Ox Tongue w. Chilli Sauce
@@ -188,12 +188,12 @@
 回鍋肉	Double Cooked Pork Belly
 香辣肉絲	Spicy Shredded Pork
 魚香肉絲/雞絲	Shredded Pork/ Chicken w. Garlic Sauce
-魚香茄子/豆腐芥蘭	Eggplant/ Tofu & Broccoli w. Garlic Sauce
+魚香茄子	Eggplant w. Garlic Sauce
+豆腐芥蘭	Eggplant w. Tofu & Broccoli
 乾煸四季豆	Sautéed String Beans
 尖椒乾豆腐	Sliced Dried Tofu W. Pepper
 蒽爆牛	Scallion Beef
 芥蘭牛肉	Beef & Broccoli
-麻婆豆腐	Ma Po Tofu
 紅燒豆腐	House Style Tofu
 蝦仁豆腐	Baby Shrimp w. Tofu
 地三鲜	Triple Delight Vegetable
@@ -230,3 +230,9 @@
 蔥爆肉	Fried Pork w. Scallion 
 蒜蓉空心菜	Chinese Watercress w. Garlic
 紅油/五彩拉皮	Green Bean Sheet Jelly
+芹菜魷魚    Celery Squid
+辣炒魷魚    Spicy Squid
+芥蘭蝦仁    Broccoli Shimp
+宮保蝦仁    Kung Pao Shrimp
+芝麻蝦仁    Sesame Shrimp
+水煮魚片    Sliced Fish in Hot Red Oil
