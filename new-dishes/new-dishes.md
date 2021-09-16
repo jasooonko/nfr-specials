@@ -1,5 +1,10 @@
 # 2021-09
 
+# 賦潤新菜品
+
+## New Dishes
+
+北京烤鴨三吃	Peking Roasted Duck Meal Set(Preorder only) $68
 老醋四樣	Jelly Fish, preserved egg, peanuts &cucumber in sweet sour sauce $15.95
 黑胡椒油爆虾	Deep Fried Shrimp W.Black pepper sauce $26.95
 酸湯肥牛	Beef Sour Soup $19.95
