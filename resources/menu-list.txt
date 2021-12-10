@@ -1,21 +1,21 @@
 水煮羊	Shredded Lamb in Fresh Hot Pepper
 香辣水煮牛	Shredded Beef in Fresh Hot Pepper
 麻辣牛蹄筋	Spicy Cow Tendon
-红烧牛蹄筋	Cow Tendon w.Brown Sauce
-尖椒/麻辣牛肉丝	Shredded Beef w.Green Pepper/ Spicy Sauce
-孜然牛肉	Crispy Beef w.Cumin 
+红烧牛蹄筋	Cow Tendon w. Brown Sauce
+尖椒/麻辣牛肉丝	Shredded Beef w. Green Pepper/ Spicy Sauce
+孜然牛肉	Crispy Beef w. Cumin 
 鐵板牛肉	Beef on Sizzling Platter 
 蔥爆牛肉	Fried Beef w. Scallion 
 蒜香羊肉	Lamb w.Garlic 
-孜然羊肉	Crispy Lamb w.Cumin 
-葱爆羊肉	Fried Lamb w.Scallion 
+孜然羊肉	Crispy Lamb w. Cumin 
+葱爆羊肉	Fried Lamb w. Scallion 
 孜然羊排	Lamb Chop w. Cumin
 腊八蒜牛肚	Ox Tripe w.Laba Garlic
 秘制脆皮羊排	Crispy Lamb Chop w. Chef's Special Sauce
 酸湯肥牛	Beef Sour Soup 
 滋補羊腩湯	Lamb Soup 
 酸湯鱼羊鲜	Lamb & Fish in Spicy Sour Soup 
-羊腩山药煲	Braised Lamb w.Chinese Yam
+羊腩山药煲	Braised Lamb w. Chinese Yam
 成都干烧鱼	Fried Fish in Spicy Sauce
 孜然魚片	Crispy Sliced Fish w. Chili Pepper & Cumin
 乾燒鰂魚	Home Style Fish
@@ -30,13 +30,13 @@
 老坛酸菜活鱼	Fish w.Pickled Cabbage & Chilies
 香辣水煮魚	Sliced Fish w. Chili Peppers
 麻辣/蒜香/豆鼓私房烤魚	Grilled Whole Fish w. Spicy/ Garlic/ Black Bean Sauce
-鱼香茄子	Eggplant w.Hot Garlic Sauce
+鱼香茄子	Eggplant w. Hot Garlic Sauce
 燒茄子	Eggplant in Brown Sauce
-尖椒土豆丝	Sliced Potato w.Green Pepper
+尖椒土豆丝	Sliced Potato w. Green Pepper
 麻婆豆腐	Ma Po Tofu
 红烧豆腐	Braised Tofu w. Brown Sauce
 家常豆腐	Fried Tofu w. Home Sauce
-尖椒幹豆腐	Braised Tofu w.Brown Sauce
+尖椒幹豆腐	Braised Tofu w. Brown Sauce
 干煸四季豆	Sauteed String Bean
 蒜蓉豆苗	Snow Pea's Leaves w. Garlic Sauce
 蒜蓉/蝦醬空心菜	Chinese Watercress w. Garlic/ Shrimp Paste Sauce
@@ -44,12 +44,12 @@
 蒜蓉小白菜	Sauteed Baby Cabbage
 地三鲜	Triple Delight Vegetables
 松子玉米	Pine Nut & Corn
-白菜木耳爆豆腐	Tofu w.Cabbage
-魚香脆皮豆腐	Crispy Tofu w.Hot Garlic Sauce
+白菜木耳爆豆腐	Tofu w. Cabbage
+魚香脆皮豆腐	Crispy Tofu w. Hot Garlic Sauce
 手撕包菜	Shredded Cabbage
 九層塔燒茄子	Eggplant in Basil Brown Sauce
 金沙玉米粒	Corn w. Salted Egg Yolk
-荷塘養生小炒	Mixed Vegetables w.Lotus Root
+荷塘養生小炒	Mixed vegetable w. Lotus Root
 蒜蓉粉絲金針菇	Mushroom & Vermicelli w. Spicy Garlic Sauce
 山藥炒木耳	Chinese Yam w. Black Fungus
 干煸杏鮑菇	Abalone Mushroom in Dry Pot in Spicy Sauce
@@ -60,7 +60,7 @@
 凉拌黄瓜	Country Style cucumber
 金針菇拌黄瓜	Mushroom w. Cucumber
 东北酱骨头	Country Style Pork Bone
-蒜泥白肉	Sliced Pork w.Garlic
+蒜泥白肉	Sliced Pork w. Garlic
 肉皮凍	Pork Skin Jelly
 老虎菜	Tiger Vegetable
 紅油螺片	Spicy Conch w. Red Oil
@@ -69,7 +69,7 @@
 紅油肚絲	Sliced Pork Stomach w. Red Oil
 春卷	Vegetable Spring Rolls (3 PC)
 蛋卷	Egg Roll with Pork & Vegetable (2 PC)
-老醋四樣	Jelly Fish, preserved egg, peanuts &cucumber in sweet sour sauce
+老醋四樣	Jelly Fish, preserved egg, peanuts &cucumber in sweet-sour sauce
 口水雞	Poach Chicken w. Chili Sauce
 五香牛腱	Roast Beef Appetizer
 牛腱拌黄瓜	Country Style Beef w.Cucumber
@@ -99,29 +99,29 @@
 糖醋排骨	Ribs w. Sweet & Sour Sauce
 香辣小肋排	House Special Ribs w. Spicy Sauce
 京醬肉絲	Shredded Pork w. Black Bean Paste
-荷兰豆炒腊肉	Stir Fried Snow Beans w. Pork Sausage
+荷兰豆炒腊肉	Stir-Fried Snow Beans w. Pork Sausage
 鱼香肘子	Braised Pork Joint in Hot Garlic Sauce
 腊八蒜/泡椒猪肝	Pork Liver in Laba Garlic/ Spicy Sauce
 茶香紅燒肉	Braised Pork w. Tea Sauce
 炸茄盒	Deep Fried Eggplant w. Pork
 川白肉	Pork w. Sour Cabbage in Casserole
 鍋子毛血旺	Pork Blood, Intestines, Bean Sprout in Hot Sauce
-葱油螺片	Sliced Conch w.Scallion
+葱油螺片	Sliced Conch w. Scallion
 盐爆螺片	Sauteed Sliced Conch
 红烧海参	Sea Cucumber in Brown Sauce
-海参烧蹄筋	Sea Cucumber w.Pork Tender
-中芹炒鲜鱿	Fresh Squid w.Celery
-姜葱鲜鱿	Sauteed Squid w.Ginger & Scallion
-辣炒鱿鱼	Stir Fried Squid w.Chili Pepper
+海参烧蹄筋	Sea Cucumber w. Pork Tender
+中芹炒鲜鱿	Fresh Squid w. Celery
+姜葱鲜鱿	Sauteed Squid w. Ginger & Scallion
+辣炒鱿鱼	Stir Fried Squid w. Chili Pepper
 鐵板魷魚	Squid on Sizzling Platter
 宫保/腰果/蛋黃焗/芝麻虾仁	Shrimp w. Peanuts/Cashew/Salted Egg Yolk/ Sesame
 溜虾仁	Sauteed Shrimp
-芥兰虾仁	Shrimp w.Broccoli
-椒鹽蝦仁	Deep Fried Shrimp w.Salt& Pepper
+芥兰虾仁	Shrimp w. Broccoli
+椒鹽蝦仁	Deep Fried Shrimp w. Salt& Pepper
 油焖大虾	Braised Jumbo Shrimp
 麥香焗大虾	Fried Jumbo Shrimp w. Oat
-三鲜玉子豆腐	Fried Tofu w.Seafood
-黑胡椒油爆虾	Deep Fried Shrimp W.Black pepper sauce
+三鲜玉子豆腐	Fried Tofu w. Seafood
+黑胡椒油爆虾	Deep Fried Shrimp W. Black pepper sauce
 奶油核桃蝦	Jumbo Shrimp w. Walnuts
 干撈蟹粉絲煲	Crab Meat w. Vermicelli
 秘製果味脆皮蝦	Crispy Shrimp w. Fruits Flavor
@@ -138,10 +138,10 @@
 三鮮/家常疙瘩湯	Dough Drop and Assorted Seafood/ Vegetable Soup
 碧綠豆苗羹	Egg Drop Soup w. Snow Pea Leaves
 小白菜丸子湯	Cabbage & Pork Meat Ball Soup
-排骨山药枸杞湯	Pork Ribs w.Chinese Yam Soup
+排骨山药枸杞湯	Pork Ribs w. Chinese Yam Soup
 西湖牛肉羹	West Lake Beef Chowder Soup
 小雞燉蘑菇加粉條	Chicken w. Mushroom & Vermicelli
-鱼香雞	Chicken w.Hot Garlic Sauce
+鱼香雞	Chicken w. Hot Garlic Sauce
 宫保雞	Diced Chicken w.Peanuts
 芝麻雞	Sesame Chicken
 芥蘭/腰果雞	Chicken w. Broccoli/Cashew Nut
@@ -150,12 +150,12 @@
 三杯雞	Chicken w. Basil in Casserole
 風味辣子雞	Chongqing Spicy Chicken
 孜然脆皮鴨	Crispy Duck W.Cumin
-赋润招牌鸭	Duck w.house Special Sauce
+赋润招牌鸭	Duck w. house Special Sauce
 海鲜湯面	Seafood Noodle Soup
 红烧牛肉面	Braised Beef Noodle Soup
 榨菜肉丝面	Shredded Pork w. Pickle Noodle Soup
-炸酱面	Noodle w.Minced Meat Sauce
-担担面	Spicy Noodle w.Pepper Sauce
+炸酱面	Noodle w. Minced Meat Sauce
+担担面	Spicy Noodle w. Pepper Sauce
 虾/牛肉捞面	Shrimp/ Beef Lo Mein
 鸡肉/蔬菜/豬肉捞面	Chicken/ Vegetable/ Pork Lo Mein
 干鍋花菜	Cauliflower in Hot Red Pepper Sauce
@@ -165,6 +165,7 @@
 干锅香辣排骨	Pork Ribs in Spicy Sauce
 干锅大虾	Jumbo Shrimp in Hot Red Pepper Sauce
 白饭	White Rice
+大白飯  Big White Rice
 黄饭	Brown Rice
 虾仁/牛肉炒饭	Shrimp/ Beef Fried Rice
 鸡肉/猪肉/蔬菜炒飯	Chicken/ Pork/ Vegetable Fried Rice
@@ -172,13 +173,13 @@
 蔥油餅	Scallion Pancake x 2
 酸菜/白菜豬肉水餃	Sour Cabbage/ Cabbage w. Pork Dumpling x 12
 三鮮餃	Shrimp, Leek & Pork Dumplin x 12
-黄金地瓜酥	Sweet Potato w.Puffed rice
+黄金地瓜酥	Sweet Potato w. Puffed rice
 黄金玉米烙	Crispy Corn pancake
 酒酿小丸子 (小)	Winery Sweet Ball Soup (Small)
 芝麻球	Sesame balls
 拔丝芋头	Sweet taro in hot toffee
-麦香紫薯	Purple sweet potato w.Oats
-拔丝什锦	Mixed Sweet Potato,Taro,and Apple in hot toffee
+麦香紫薯	Purple sweet potato w. Oats
+拔丝什锦	Mixed Sweet Potato,Taro, and Apple in hot toffee
 拔丝地瓜	Sweet Potato in hot toffee
 酒酿小丸子 (大)	Winery Sweet Ball Soup (Large)
 芝麻雞	Sesame Chicken
@@ -191,7 +192,7 @@
 魚香茄子	Eggplant w. Garlic Sauce
 豆腐芥蘭	Eggplant w. Tofu & Broccoli
 乾煸四季豆	Sautéed String Beans
-尖椒乾豆腐	Sliced Dried Tofu W. Pepper
+尖椒乾豆腐	Sliced Dried Tofu w. Pepper
 蒽爆牛	Scallion Beef
 芥蘭牛肉	Beef & Broccoli
 紅燒豆腐	House Style Tofu
@@ -215,7 +216,7 @@
 西芹腰果	Celery w. Cashew
 蒜翠盲曹	Steam Bass w. Garlic
 薑蔥雙龍	Sautéed Lobster w. Ginger and Scallion
-全家福(海參,蝦仁,干貝,魷魚,蟹蚌）	Seafood combo (Sea cucumber, shrimp, Scallops, Squid, Crab meat)
+全家福(海參,蝦仁,干貝,魷魚,蟹蚌）	Seafood combo (Sea cucumber, shrimp, Scallops, Squid, Crabmeat)
 三黃走地燻雞	Smoked Cage-free Chicken
 三黃走地燻雞(半隻)	Smoked Cage-free Chicken (half)
 北京烤鴨三吃	Peking Roasted Duck Meal Set
@@ -246,4 +247,3 @@
 海鮮撈麵    Seafood Lo Mein
 酸湯魚羊鮮  Lamb and Fish in Sour Soup
 乾扁肥腸    Fried Pork Intestine w. Celery  $16.95
-
