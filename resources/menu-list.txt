@@ -29,7 +29,7 @@
 香炸小黄鱼	Deep Fried Small Yellow Fish w.Salt & Pepper
 老坛酸菜活鱼	Fish w.Pickled Cabbage & Chilies
 香辣水煮魚	Sliced Fish w. Chili Peppers
-麻辣/蒜香/豆鼓私房烤魚	Grilled Whole Fish w. Spicy/ Garlic/ Black Bean Sauce
+麻辣/蒜香/豆鼓私房烤魚	Grilled Fish w. Spicy/ Garlic/ Black Bean Sauce
 鱼香茄子	Eggplant w. Hot Garlic Sauce
 燒茄子	Eggplant in Brown Sauce
 尖椒土豆丝	Sliced Potato w. Green Pepper
@@ -165,7 +165,7 @@
 干锅香辣排骨	Pork Ribs in Spicy Sauce
 干锅大虾	Jumbo Shrimp in Hot Red Pepper Sauce
 白饭	White Rice
-大白飯  Big White Rice
+大白飯  Large White Rice
 黄饭	Brown Rice
 虾仁/牛肉炒饭	Shrimp/ Beef Fried Rice
 鸡肉/猪肉/蔬菜炒飯	Chicken/ Pork/ Vegetable Fried Rice
@@ -176,7 +176,7 @@
 黄金地瓜酥	Sweet Potato w. Puffed rice
 黄金玉米烙	Crispy Corn pancake
 酒酿小丸子 (小)	Winery Sweet Ball Soup (Small)
-芝麻球	Sesame balls
+芝麻球	Sesame Balls
 拔丝芋头	Sweet taro in hot toffee
 麦香紫薯	Purple sweet potato w. Oats
 拔丝什锦	Mixed Sweet Potato,Taro, and Apple in hot toffee
@@ -213,6 +213,7 @@
 椒鹽大蝦	Fried Jumbo Shrimp w. Salt & Pepper
 香辣大虾	Fried Jumbo Shrimp w. Chili Pepper
 半隻燻雞	Smoked Chicken (Half)
+全隻燻雞    Smoked Chicken (Half)
 西芹腰果	Celery w. Cashew
 蒜翠盲曹	Steam Bass w. Garlic
 薑蔥雙龍	Sautéed Lobster w. Ginger and Scallion
@@ -231,19 +232,43 @@
 蔥爆肉	Fried Pork w. Scallion 
 蒜蓉空心菜	Chinese Watercress w. Garlic
 紅油/五彩拉皮	Green Bean Sheet Jelly
-芹菜魷魚    Celery Squid
-辣炒魷魚    Spicy Squid
-芥蘭蝦仁    Broccoli Shimp
-宮保蝦仁    Kung Pao Shrimp
-芝麻蝦仁    Sesame Shrimp
-水煮魚片    Sliced Fish in Hot Red Oil
-清蒸黑斑    Steamed Black Fish
-水果拼盤    Fruit Plate
-糟溜魚片    Sautéed Sliced Fish in Rice Wine Sauce
-蒜泥奶油大蝦 Garlic Butter Jumbo Shrimp
-黑胡椒杏包菇牛肉粒 Black Pepper Abalone Mushroom and Beef
-薑蔥雙龍    Sautéed Double Lobsters w. Ginger and Scallion
-冷盤雙拼    Cold Dish Combo
-海鮮撈麵    Seafood Lo Mein
-酸湯魚羊鮮  Lamb and Fish in Sour Soup
-乾扁肥腸    Fried Pork Intestine w. Celery  $16.95
+芹菜魷魚	Celery Squid
+辣炒魷魚	Spicy Squid
+芥蘭蝦仁	Broccoli Shimp
+宮保蝦仁	Kung Pao Shrimp
+芝麻蝦仁	Sesame Shrimp
+水煮魚片	Sliced Fish in Hot Red Oil
+清蒸黑斑	Steamed Black Fish
+水果拼盤	Fruit Plate
+糟溜魚片	Sautéed Sliced Fish in Rice Wine Sauce
+蒜泥奶油大蝦	Garlic Butter Jumbo Shrimp
+黑胡椒杏包菇牛肉粒	Black Pepper Abalone Mushroom and Beef
+薑蔥雙龍	Sautéed Double Lobsters w. Ginger and Scallion
+冷盤雙拼	Cold Dish Combo
+海鮮撈麵	Seafood Lo Mein
+酸湯魚羊鮮	Lamb and Fish in Sour Soup
+乾扁肥腸	Fried Pork Intestine w. Celery
+鳳梨咕咾肉	Fried Pork w. Pineapple 
+牛腩腐竹煲	Stewed Beef Brisket w. Yuba
+蔥油螺片	Sliced Conch w. Scallion
+麥香焗大蝦	Jumbo Shrimp w. Oats
+海鮮伊麵	Seafood Noodles
+椒鹽雙蟹	Double Dungeness Crabs w. Salt & Pepper
+蒜蓉上海苗	Bok Choy w. Garlic Sauce
+黑斑私房烤魚（蒜香/香辣）	Grilled Black Fish w. Garlic or Spicy Sauce
+饞嘴牛蛙	Glutton Bullfrog
+黃金小饅頭	Golden Buns
+薑蔥雙龍伊麵	Sautéed Double Lobsters w. Ginger and Scallion Noodle
+
+芥蘭海參 Chinese Kale w. Sea Cucumber in Brown Sauce
+龍崗雞煲 Lung Guang Chicken Stew
+東北燻雞 DongBei Cage-Free Smoked Chicken
+滷味拼盤（牛肉、豬耳、藕片、海帶結、蛋）Braised Platter Samples (Beef, Pork Ears, Lotus Roots, Seaweed, Eggs)
+五福臨門拼盤    Braised Platter Samples
+金蒜牛肉粒 Beef w. Garlic
+合菜捲餅 House Burritos w. 12 Wraps
+合菜捲餅+加餅 House Burritos w. 12 wraps
+菌菇髮菜羹 Mushrooms and Hair Seaweed Soup
+
+翡翠黑斑 Steam Black Fish w. Garlic
+黑胡椒油爆蝦    Fried Shrimp w. Black Pepper
