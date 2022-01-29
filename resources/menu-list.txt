@@ -160,10 +160,10 @@
 鸡肉/蔬菜/豬肉捞面	Chicken/ Vegetable/ Pork Lo Mein
 干鍋花菜	Cauliflower in Hot Red Pepper Sauce
 干鍋杏鮑菇	Abalone Mushroom in Dry Pot in Spicy Sauce
-干锅土豆片	Sliced Potato in Hot Red Pepper Sauce
-干锅肥肠	Pork Intestine in Hot Red Pepper Sauce
-干锅香辣排骨	Pork Ribs in Spicy Sauce
-干锅大虾	Jumbo Shrimp in Hot Red Pepper Sauce
+干鍋土豆片	Sliced Potato in Hot Red Pepper Sauce
+干鍋肥肠	Pork Intestine in Hot Red Pepper Sauce
+干鍋香辣排骨	Pork Ribs in Spicy Sauce
+干鍋大虾	Jumbo Shrimp in Hot Red Pepper Sauce
 白饭	White Rice
 大白飯  Large White Rice
 黄饭	Brown Rice
@@ -173,14 +173,14 @@
 蔥油餅	Scallion Pancake x 2
 酸菜/白菜豬肉水餃	Sour Cabbage/ Cabbage w. Pork Dumpling x 12
 三鮮餃	Shrimp, Leek & Pork Dumplin x 12
-黄金地瓜酥	Sweet Potato w. Puffed rice
-黄金玉米烙	Crispy Corn pancake
+黃金地瓜酥	Sweet Potato w. Puffed rice
+黃金玉米烙	Crispy Corn pancake
 酒酿小丸子 (小)	Winery Sweet Ball Soup (Small)
 芝麻球	Sesame Balls
 拔丝芋头	Sweet taro in hot toffee
 麦香紫薯	Purple sweet potato w. Oats
 拔丝什锦	Mixed Sweet Potato,Taro, and Apple in hot toffee
-拔丝地瓜	Sweet Potato in hot toffee
+拔絲地瓜	Sweet Potato in hot toffee
 酒酿小丸子 (大)	Winery Sweet Ball Soup (Large)
 芝麻雞	Sesame Chicken
 宫保雞	Diced Chicken W. Peanuts
