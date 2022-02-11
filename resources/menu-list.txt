@@ -49,7 +49,7 @@
 手撕包菜	Shredded Cabbage
 九層塔燒茄子	Eggplant in Basil Brown Sauce
 金沙玉米粒	Corn w. Salted Egg Yolk
-荷塘養生小炒	Mixed vegetable w. Lotus Root
+荷塘養生小炒	Mixed Vegetable w. Lotus Root
 蒜蓉粉絲金針菇	Mushroom & Vermicelli w. Spicy Garlic Sauce
 山藥炒木耳	Chinese Yam w. Black Fungus
 干煸杏鮑菇	Abalone Mushroom in Dry Pot in Spicy Sauce
@@ -177,10 +177,10 @@
 黃金玉米烙	Crispy Corn pancake
 酒酿小丸子 (小)	Winery Sweet Ball Soup (Small)
 芝麻球	Sesame Balls
-拔丝芋头	Sweet taro in hot toffee
+拔丝芋头	Sweet Taro in Hot Toffee
 麦香紫薯	Purple sweet potato w. Oats
-拔丝什锦	Mixed Sweet Potato,Taro, and Apple in hot toffee
-拔絲地瓜	Sweet Potato in hot toffee
+拔丝什锦	Mixed Sweet Potato,Taro, and Apple in Hot Toffee
+拔絲地瓜	Sweet Potato in Hot Toffee
 酒酿小丸子 (大)	Winery Sweet Ball Soup (Large)
 芝麻雞	Sesame Chicken
 宫保雞	Diced Chicken W. Peanuts
