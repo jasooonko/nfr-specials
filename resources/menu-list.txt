@@ -182,8 +182,8 @@
 拔丝什锦	Mixed Sweet Potato,Taro, and Apple in Hot Toffee
 拔絲地瓜	Sweet Potato in Hot Toffee
 酒酿小丸子 (大)	Winery Sweet Ball Soup (Large)
-芝麻雞	Sesame Chicken
 宫保雞	Diced Chicken W. Peanuts
+宮保雞      Kung Pao Chicken
 魚香雞	Chicken w. Hot Garlic Sauce
 芥蘭雞	Chicken & Broccoli
 回鍋肉	Double Cooked Pork Belly
@@ -272,3 +272,4 @@
 
 翡翠黑斑 Steam Black Fish w. Garlic
 黑胡椒油爆蝦    Fried Shrimp w. Black Pepper
+芥蘭魚片    Sliced Fish w. Broccoli
