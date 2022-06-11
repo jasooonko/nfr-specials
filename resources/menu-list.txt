@@ -8,7 +8,8 @@
 蔥爆牛肉	Fried Beef w. Scallion 
 蒜香羊肉	Lamb w.Garlic 
 孜然羊肉	Crispy Lamb w. Cumin 
-葱爆羊肉	Fried Lamb w. Scallion 
+葱爆羊肉	Fried Lamb w. Scallion
+蔥香羊肉    Fried Lamb w. Scallion
 孜然羊排	Lamb Chop w. Cumin
 腊八蒜牛肚	Ox Tripe w.Laba Garlic
 秘制脆皮羊排	Crispy Lamb Chop w. Chef's Special Sauce
@@ -61,10 +62,11 @@
 金針菇拌黄瓜	Mushroom w. Cucumber
 东北酱骨头	Country Style Pork Bone
 蒜泥白肉	Sliced Pork w. Garlic
-肉皮凍	Pork Skin Jelly
+肉皮凍  Pork Skin Jelly
 老虎菜	Tiger Vegetable
 紅油螺片	Spicy Conch w. Red Oil
 涼拌土豆絲	Sliced Potato w. Special Sauce
+醋溜土豆絲  Sliced Potato w. Sour Sauce
 涼拌干豆腐	Sliced Dry Tofu w. Celery
 紅油肚絲	Sliced Pork Stomach w. Red Oil
 春卷	Vegetable Spring Rolls (3 PC)
@@ -112,6 +114,7 @@
 海参烧蹄筋	Sea Cucumber w. Pork Tender
 中芹炒鲜鱿	Fresh Squid w. Celery
 姜葱鲜鱿	Sauteed Squid w. Ginger & Scallion
+蔥薑鮮尤    Sauteed Squid w. Ginger & Scallion
 辣炒鱿鱼	Stir Fried Squid w. Chili Pepper
 鐵板魷魚	Squid on Sizzling Platter
 宫保/腰果/蛋黃焗/芝麻虾仁	Shrimp w. Peanuts/Cashew/Salted Egg Yolk/ Sesame
@@ -206,7 +209,6 @@
 豆豉/豆腐魚片	Sautéed Sliced Fish w. Black Bean Sauce/ Tofu
 素什锦	Mixed Vegetable w. Brown Sauce
 紅燒排骨土豆	Braised Pork Ribs w. Potato
-糖醋排骨	Ribs w. Sweet and Sour Sauce
 羊肉餃	Lamb w. Carrot Dumplin x 12
 素水餃	Vegetable Dumplin x 12
 尖椒肥腸	Intestines w. Green Pepper
@@ -270,6 +272,11 @@
 合菜捲餅+加餅 House Burritos w. 12 wraps
 菌菇髮菜羹 Mushrooms and Hair Seaweed Soup
 
-翡翠黑斑 Steam Black Fish w. Garlic
+翡翠黑斑    Steam Black Fish w. Garlic
 黑胡椒油爆蝦    Fried Shrimp w. Black Pepper
 芥蘭魚片    Sliced Fish w. Broccoli
+翡翠盲曹    Silver Sea Perch w. Scallions 
+酸菜魚片湯  Sliced Fish and Sour Cabbage Soup
+焗蛋黃蝦仁  Egg Yolk Shrimp
+川香麻辣蝦  Sichuan Style Spicy Shrimps
+鹽爆螺片    Salted Stir Fried Conch
