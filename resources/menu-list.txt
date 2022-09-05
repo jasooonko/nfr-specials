@@ -23,6 +23,7 @@
 豆瓣鰂鱼	Fried Fish in Hot Bean Pasta
 红烧鰂鱼	Braised Fish in Brown Sauce
 松鼠魚	Tilapia w. Sweet & Sour Sauce
+松鼠鱼	Tilapia w. Sweet & Sour Sauce
 水煮活鱼	Fresh Fish Filets in Hot Chili Oil
 水煮/糖醋鱼片	Sliced Fish in Hot Red Oil/ Sweet & Sour Sauce
 溜鱼片	Sauteed sliced Fish w.White Sauce
@@ -30,7 +31,9 @@
 香炸小黄鱼	Deep Fried Small Yellow Fish w.Salt & Pepper
 老坛酸菜活鱼	Fish w.Pickled Cabbage & Chilies
 香辣水煮魚	Sliced Fish w. Chili Peppers
+香辣水煮鱼	Sliced Fish w. Chili Peppers
 麻辣/蒜香/豆鼓私房烤魚	Grilled Fish w. Spicy/ Garlic/ Black Bean Sauce
+私房烤鱼    Grilled Fish
 鱼香茄子	Eggplant w. Hot Garlic Sauce
 燒茄子	Eggplant in Brown Sauce
 尖椒土豆丝	Sliced Potato w. Green Pepper
@@ -40,8 +43,10 @@
 尖椒幹豆腐	Braised Tofu w. Brown Sauce
 干煸四季豆	Sauteed String Bean
 蒜蓉豆苗	Snow Pea's Leaves w. Garlic Sauce
+蒜香豆苗	Snow Pea's Leaves w. Garlic Sauce
 蒜蓉/蝦醬空心菜	Chinese Watercress w. Garlic/ Shrimp Paste Sauce
 清炒菠菜	Sauteed Spinach
+姜汁菠菜    Ginger Sauce Spinach
 蒜蓉小白菜	Sauteed Baby Cabbage
 地三鲜	Triple Delight Vegetables
 松子玉米	Pine Nut & Corn
@@ -49,6 +54,7 @@
 魚香脆皮豆腐	Crispy Tofu w. Hot Garlic Sauce
 手撕包菜	Shredded Cabbage
 九層塔燒茄子	Eggplant in Basil Brown Sauce
+九層塔雞    Chicken in Basil Brown Sauce
 金沙玉米粒	Corn w. Salted Egg Yolk
 荷塘養生小炒	Mixed Vegetable w. Lotus Root
 蒜蓉粉絲金針菇	Mushroom & Vermicelli w. Spicy Garlic Sauce
@@ -81,6 +87,7 @@
 溜肉段	Sauteed Crispy Pork
 鱼香肉丝	Sliced Pork w.Hot Garlic Sauce
 鍋包肉	Fried Pork in Orange Sauce
+锅包肉	Fried Pork in Orange Sauce
 葱爆肉	Fried Pork w. Scallion
 红烧肉	Braised Pork
 红焖肘子	Braised Pork Joint
@@ -115,6 +122,7 @@
 中芹炒鲜鱿	Fresh Squid w. Celery
 姜葱鲜鱿	Sauteed Squid w. Ginger & Scallion
 蔥薑鮮魷    Sauteed Squid w. Ginger & Scallion
+薑蔥鮮魷    Sauteed Squid w. Ginger & Scallion
 辣炒鱿鱼	Stir Fried Squid w. Chili Pepper
 鐵板魷魚	Squid on Sizzling Platter
 宫保/腰果/蛋黃焗/芝麻虾仁	Shrimp w. Peanuts/Cashew/Salted Egg Yolk/ Sesame
@@ -144,6 +152,7 @@
 排骨山药枸杞湯	Pork Ribs w. Chinese Yam Soup
 西湖牛肉羹	West Lake Beef Chowder Soup
 小雞燉蘑菇加粉條	Chicken w. Mushroom & Vermicelli
+小鸡炖蘑菇  Chicken w. Mushroom
 鱼香雞	Chicken w. Hot Garlic Sauce
 宫保雞	Diced Chicken w.Peanuts
 芝麻雞	Sesame Chicken
@@ -239,6 +248,8 @@
 芥蘭蝦仁	Broccoli Shimp
 宮保蝦仁	Kung Pao Shrimp
 芝麻蝦仁	Sesame Shrimp
+软炸虾仁    Soft Fried Shrimp
+軟炸蝦仁    Soft Fried Shrimp
 水煮魚片	Sliced Fish in Hot Red Oil
 清蒸黑斑	Steamed Black Fish
 水果拼盤	Fruit Plate
@@ -280,3 +291,18 @@
 焗蛋黃蝦仁  Egg Yolk Shrimp
 川香麻辣蝦  Sichuan Style Spicy Shrimps
 鹽爆螺片    Salted Stir Fried Conch
+三杯鸡  Three Cup Chicken
+蒜香上海青    Shanghai Bok Choy w. Garlic
+爽口木耳   Fungus Appetizer
+腐乳空心菜  Stir Fried Water Spinach with Fermented Bean Curd
+海鲜豆腐羹  Seafood Tofu Soup
+排骨炖酸菜  Stewed Sour Cabbage with Pork Ribs
+
+家常黑斑燉魚 House Black Fish
+豉油粉丝鮑魚 Steam Abalone w. Black Bean Sauce (5)
+五香牛肉乾 Beef Jerky 
+农家小炒羊 (含nuts and peanuts) Country Style Sautéed Lamb 
+黑椒牛肉 Beef with Black Pepper 
+蓝莓山药 Chinese Yam with Blueberry 
+北京烤鴨三吃 Peking Duck Meal Set
+薑蔥雙龍 Double Lobsters w. Scallions and Ginger 
