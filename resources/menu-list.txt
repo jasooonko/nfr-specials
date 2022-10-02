@@ -56,7 +56,7 @@
 九層塔燒茄子	Eggplant in Basil Brown Sauce
 九層塔雞    Chicken in Basil Brown Sauce
 金沙玉米粒	Corn w. Salted Egg Yolk
-荷塘養生小炒	Mixed Vegetable w. Lotus Root
+荷塘養生小炒	Mixed Vegetables w. Lotus Root
 蒜蓉粉絲金針菇	Mushroom & Vermicelli w. Spicy Garlic Sauce
 山藥炒木耳	Chinese Yam w. Black Fungus
 干煸杏鮑菇	Abalone Mushroom in Dry Pot in Spicy Sauce
@@ -119,6 +119,7 @@
 盐爆螺片	Sauteed Sliced Conch
 红烧海参	Sea Cucumber in Brown Sauce
 海参烧蹄筋	Sea Cucumber w. Pork Tender
+海參燒蹄筋	Sea Cucumber w. Pork Tender
 中芹炒鲜鱿	Fresh Squid w. Celery
 姜葱鲜鱿	Sauteed Squid w. Ginger & Scallion
 蔥薑鮮魷    Sauteed Squid w. Ginger & Scallion
@@ -132,7 +133,7 @@
 油焖大虾	Braised Jumbo Shrimp
 麥香焗大虾	Fried Jumbo Shrimp w. Oat
 三鲜玉子豆腐	Fried Tofu w. Seafood
-黑胡椒油爆虾	Deep Fried Shrimp W. Black pepper sauce
+黑胡椒油爆虾	Deep Fried Shrimp w. Black pepper sauce
 奶油核桃蝦	Jumbo Shrimp w. Walnuts
 干撈蟹粉絲煲	Crab Meat w. Vermicelli
 秘製果味脆皮蝦	Crispy Shrimp w. Fruits Flavor
@@ -161,7 +162,7 @@
 香辣鹌鹑	Fried Quail in Special Spicy Sauce
 三杯雞	Chicken w. Basil in Casserole
 風味辣子雞	Chongqing Spicy Chicken
-孜然脆皮鴨	Crispy Duck W.Cumin
+孜然脆皮鴨	Crispy Duck w.Cumin
 赋润招牌鸭	Duck w. house Special Sauce
 海鲜湯面	Seafood Noodle Soup
 红烧牛肉面	Braised Beef Noodle Soup
@@ -194,13 +195,14 @@
 拔丝什锦	Mixed Sweet Potato,Taro, and Apple in Hot Toffee
 拔絲地瓜	Sweet Potato in Hot Toffee
 酒酿小丸子 (大)	Winery Sweet Ball Soup (Large)
-宫保雞	Diced Chicken W. Peanuts
+宫保雞	Diced Chicken w. Peanuts
 宮保雞      Kung Pao Chicken
 魚香雞	Chicken w. Hot Garlic Sauce
 芥蘭雞	Chicken & Broccoli
 回鍋肉	Double Cooked Pork Belly
 香辣肉絲	Spicy Shredded Pork
 魚香肉絲/雞絲	Shredded Pork/ Chicken w. Garlic Sauce
+魚香雞絲	Shredded Chicken w. Garlic Sauce
 魚香茄子	Eggplant w. Garlic Sauce
 豆腐芥蘭	Eggplant w. Tofu & Broccoli
 乾煸四季豆	Sautéed String Beans
@@ -216,6 +218,7 @@
 四季豆肉絲	String Beans w. Shredded Pork
 香乾榨菜肉絲	Shredded Pork w. Dried Bean Curd
 豆豉/豆腐魚片	Sautéed Sliced Fish w. Black Bean Sauce/ Tofu
+豆豉魚片	Sautéed Sliced Fish w. Black Bean Sauce
 素什锦	Mixed Vegetable w. Brown Sauce
 紅燒排骨土豆	Braised Pork Ribs w. Potato
 羊肉餃	Lamb w. Carrot Dumplin x 12
@@ -303,6 +306,10 @@
 五香牛肉乾 Beef Jerky 
 农家小炒羊 (含nuts and peanuts) Country Style Sautéed Lamb 
 黑椒牛肉 Beef with Black Pepper 
-蓝莓山药 Chinese Yam with Blueberry 
-北京烤鴨三吃 Peking Duck Meal Set
+蓝莓山药 Chinese Yam with Blueberry
 薑蔥雙龍 Double Lobsters w. Scallions and Ginger 
+尖椒干豆腐  Shredded Dried Tofu w. Pepper
+魚香豆腐芥蘭   Tofu & Broccoli w. Hot Garlic Sauce
+
+蔥油雞  Scallion Oil Chicken
+糍粑紅薯    Sweet Potato Rice Cake
